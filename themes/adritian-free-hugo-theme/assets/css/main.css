@@ -10146,13 +10146,14 @@ textarea:focus {
 .header .navbar-brand span {
     display: block;
 }
-.header .navbar-brand span:first-child {
+.header .navbar-brand span:first-child { /*LIAM*/
     align-self: center;
     font-size: 25px;
     font-weight: 900;
     letter-spacing: -1.17px;
-    color: #AE1B13;
+    color: #5a9be1;
 }
+
 @media (min-width: 768px) {
     .header .navbar-brand img {
         width: 156px;
@@ -10594,9 +10595,18 @@ textarea:focus {
     display: inline;
 }
 
-.header .navbar-brand span:nth-child(2){
+.header .navbar-brand span:nth-child(2){  /*DOUGLAS*/
     font-family: inherit;
     margin-top: 0;
+    font-size: 24px;
+    color: #a6d1ff;
+}
+
+.header .navbar-brand span:nth-child(3){  /*MCKENNA*/
+    font-family: inherit;
+    margin-top: 0;
+    
+    font-size: 32.9px;
 }
 
 #breadcrumb-bar{
@@ -10830,6 +10840,9 @@ aside.content-browser{
         background-color: #181818;
     }
     .header .navbar-brand span:nth-child(2){
+        color: #a6d1ff;
+    }
+    .header .navbar-brand span:nth-child(3){
         color: #fff;
     }
     .navbar-light .navbar-toggler-icon{

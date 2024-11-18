@@ -85,7 +85,8 @@ theme = "adritian-free-hugo-theme"
   
   [params.logo]
     text1 = "Liam"
-    text2 = "McKenna"
+    text2 = "Douglas"
+    text3 = "McKenna"
 
   [params.footer]
       copyright = "© Adritian. Free Hugo theme by Adrián Moreno Peña."
