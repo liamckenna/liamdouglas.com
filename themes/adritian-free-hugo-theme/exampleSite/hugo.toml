@@ -1,4 +1,4 @@
-baseURL = "https://www.adrianmoreno.info"
+baseURL = "liamdouglas.com"
 languageCode = "en-us"
 theme = "adritian-free-hugo-theme"
 
@@ -84,7 +84,7 @@ theme = "adritian-free-hugo-theme"
       enabled = false
   
   [params.logo]
-    text1 = "Cool"
+    text1 = "duh"
     text2 = "Name"
 
   [params.footer]
