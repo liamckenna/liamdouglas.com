@@ -141,13 +141,13 @@ contact:
     message: "Type Your Message Here"
   phone:
     title: "Phone Number"
-    number: "+1 (321) 607-2168"
+    number: "+555 (11) 123 44 55"
   email:
     title: "Email"
-    email: '<a href="mailto:work@liamdouglas.com">work@liamdouglas.com</a>'
+    email: '<a href="mailto:mail@example.com">mail@example.com</a>'
   address:
     title: "Address"
-    address: "1824 NW 3rd Pl, Unit 10<br />Gainesville, FL<br> 32603"
+    address: "Exact street/neighborhood (you can omit this)<br />Postcode, City"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
