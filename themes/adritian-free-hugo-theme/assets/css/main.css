@@ -843,6 +843,7 @@ pre code {
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
+    
 }
 .row {
     display: -webkit-box;
@@ -1016,6 +1017,12 @@ pre code {
     -webkit-box-flex: 0;
     flex: 0 0 100%;
     max-width: 100%;
+}
+.col-13 {
+    -webkit-box-flex: 0;
+    flex: 0 0 100%;
+    max-width: 100%;
+    text-align: center;
 }
 .order-first {
     -webkit-box-ordinal-group: 0;
@@ -3985,7 +3992,7 @@ input[type="submit"].btn-block {
 }
 .navbar-brand {
     display: inline-block;
-    padding-top: 0.3125rem;
+    padding-top: 0.6125rem;
     padding-bottom: 0.3125rem;
     margin-right: 1rem;
     font-size: 1.25rem;
@@ -9265,7 +9272,7 @@ h2 {
         margin-bottom: 10px;
     }
     h2 {
-        margin-bottom: 10px;
+        margin-bottom: 25px;
         font-size: 48px;
     }
 }
@@ -9294,10 +9301,12 @@ p + p {
     margin-top: -12px;
 }
 .display-1 {
+    margin-top: 115px;
     font-size: 36px;
     font-weight: 800;
     line-height: normal;
     color: #000;
+    margin-bottom: 50px;
 }
 @media (min-width: 992px) {
     .display-1 {
@@ -9311,6 +9320,7 @@ span a {
     text-decoration: none;
     border-bottom: 1px solid rgba(0, 0, 0, 0.5);
     transition: all 0.5s;
+    
 }
 p a:hover,
 span a:hover {
@@ -9769,13 +9779,14 @@ html body {
 }
 @media (min-width: 768px) {
     .about__profile-picture {
-        margin-top: 0;
+        margin-top: 50px;
         -webkit-box-flex: 0;
         flex: 0 0 50%;
         max-width: 50%;
         width: 50%;
         margin-left: 0;
         margin-right: 0;
+
     }
 }
 .experience__title {
@@ -10516,11 +10527,13 @@ textarea:focus {
 .rad-showcase .platform-links {
     margin-top: 40px;
     margin-right: -5px;
+    margin-bottom: 40px;
 }
 @media (min-width: 992px) {
     .rad-showcase .platform-links {
-        margin-top: 92px;
-        margin-right: -10px;
+        margin-top: 50px;
+        margin-right: 0px;
+        margin-bottom: 50px;
     }
 }
 .rad-showcase .platform-links [class^="icon-"] {
@@ -10542,7 +10555,7 @@ textarea:focus {
 }
 @media (min-width: 992px) {
     .rad-showcase .platform-links [class^="icon-"] {
-        font-size: 19px;
+        font-size: 50px;
         margin-right: 10px;
     }
 }
@@ -10573,7 +10586,7 @@ textarea:focus {
 }
 
 .profile-image img{
-    margin-top: 40px;
+    margin-top: 100px;
 }
 
 .rad-showcase__bg img{
