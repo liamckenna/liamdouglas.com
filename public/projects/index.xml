@@ -36,5 +36,12 @@
       <guid>http://localhost:1313/liamdouglas.com/projects/3d-modeling/</guid>
       <description>&lt;p&gt;In my two 3D modeling courses, I have become thoroughly familiar with the process of 3D modeling and&#xA;rendering. I’ve modeled a variety of objects, architectures, and human characters, all of which can be seen in&#xA;this portfolio. My experiences in modeling have been particularly responsible for piquing my interest&#xA;in the 3D rendering pipeline, as well as graphics processing as a whole&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Itch.io Games</title>
+      <link>http://localhost:1313/liamdouglas.com/projects/itch-page/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/liamdouglas.com/projects/itch-page/</guid>
+      <description>&lt;p&gt;Over the course of my tenure at UF, I&amp;rsquo;ve created several smaller-scale games for various projects.&#xA;These include game jams, class projects, hackathons, and personal ventures. The process of working&#xA;with others on these titles has demonstrated and further developed my programming, designing, artistic,&#xA;and leadership skills. For one particular project, Vermin Venture, I performed all the design, programming,&#xA;sound, and implementation for the semester class project, and saw personal recognition for the product.&#xA;All of these creations can be seen and downloaded on my Itch page.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

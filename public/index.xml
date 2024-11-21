@@ -106,5 +106,12 @@
       <guid>http://localhost:1313/liamdouglas.com/experience/job-1/</guid>
       <description>&lt;h3 id=&#34;learning-the-ropes-grasping-responsibility&#34;&gt;Learning the ropes, grasping responsibility.&lt;/h3&gt;&#xA;&lt;p&gt;As a software development intern, I learned the ins and outs of the software development cycle. In addition to&#xA;being the designated intern on a development team, I worked with other interns to create a new program to&#xA;assist in the process of debugging new releases of their proprietary software.&lt;/p&gt;&#xA;&lt;p&gt;Despite ultimately deciding against a career as a software developer (at least, not without a specialization),&#xA;the experience remained truly valuable. Through working in a white collar environment for the first time,&#xA;I sincerely grasped the importance of accountability and proper work ethic.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Itch.io Games</title>
+      <link>http://localhost:1313/liamdouglas.com/projects/itch-page/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/liamdouglas.com/projects/itch-page/</guid>
+      <description>&lt;p&gt;Over the course of my tenure at UF, I&amp;rsquo;ve created several smaller-scale games for various projects.&#xA;These include game jams, class projects, hackathons, and personal ventures. The process of working&#xA;with others on these titles has demonstrated and further developed my programming, designing, artistic,&#xA;and leadership skills. For one particular project, Vermin Venture, I performed all the design, programming,&#xA;sound, and implementation for the semester class project, and saw personal recognition for the product.&#xA;All of these creations can be seen and downloaded on my Itch page.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

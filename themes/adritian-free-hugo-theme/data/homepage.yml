@@ -21,7 +21,7 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "https://www.liamdouglas.com/#contact/"
+    URL: "https://www.liamdouglas.com/#contact"
 
   socialLinks:
     - icon: "linkedin"
