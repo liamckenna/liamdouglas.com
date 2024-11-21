@@ -8,7 +8,7 @@ link: "/pdfs/3D Modeling Portfolio.pdf" # optional URL to link the logo to
 params:
     button:
         icon: "icon-arrow-right"
-        btnText: "Model Portfolio"
+        btnText: "Download Full Portfolio"
         URL: "/assets/portfolio/3D Modeling Portfolio.pdf"
     image:  
         x: "images/works/renders.png"
@@ -19,5 +19,5 @@ params:
 ---
 In my two 3D modeling courses, I have become thoroughly familiar with the process of 3D modeling and
 rendering. I’ve modeled a variety of objects, architectures, and human characters, all of which can be seen in
-my external portfolio. My experiences in modeling have been particularly responsible for piquing my interest
+this portfolio. My experiences in modeling have been particularly responsible for piquing my interest
 in the 3D rendering pipeline, as well as graphics processing as a whole
