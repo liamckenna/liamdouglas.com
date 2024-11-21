@@ -7,7 +7,7 @@ link: "/pdfs/3D Modeling Portfolio.pdf" # optional URL to link the logo to
 
 params:
     button:
-        icon: "icon-arrow-right"
+        icon: "icon-profile-fill"
         btnText: "View Full Portfolio"
         URL: "/assets/portfolio/3D Modeling Portfolio.pdf"
     image:  
