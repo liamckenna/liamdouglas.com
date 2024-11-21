@@ -9762,9 +9762,7 @@ input[type="email"]::placeholder {
 }
 .about__profile-picture {
     -webkit-box-flex: 0;
-    flex: 0 0 calc(100% + 80px);
-    max-width: calc(100% + 80px);
-    width: calc(100% + 80px);
+    flex: 0 0 calc(100%);
     margin-left: -40px;
     margin-right: -40px;
     margin-top: 20px;
@@ -9781,7 +9779,6 @@ html body {
     .about__profile-picture {
         -webkit-box-flex: 0;
         flex: 0 0 50%;
-        max-width: 50%;
         width: 50%;
         margin-left: 0;
         margin-right: 0;
