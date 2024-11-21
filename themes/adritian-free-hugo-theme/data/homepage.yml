@@ -151,11 +151,14 @@ contact:
     title: "Phone Number"
     number: "+1 (321) 607-2168"
   email:
-    title: "Email"
+    title: "Business Email"
     email: '<a href="mailto:work@liamdouglas.com">work@liamdouglas.com</a>'
+  pemail:
+    title: "Personal Contact"
+    email: '<a href="mailto:work@liamdouglas.com">lee@liamdouglas.com</a>'
   address:
     title: "Address"
-    address: "1824 NW 3rd Pl, Unit 10<br />Gainesville, FL 326203"
+    address: "1824 NW 3rd Pl, Unit 10<br />Gainesville, FL 32603"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
