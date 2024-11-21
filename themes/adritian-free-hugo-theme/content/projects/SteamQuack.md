@@ -6,7 +6,7 @@ draft: false # set to "true" if you want to hide the content
 params:
     button:
         icon: "icon-profile-fill"
-        btnText: "Visit Site"
+        btnText: "Visit Site "
         URL: "https://www.steamquack.com"
     image:  
         x: "images/works/steamquakc.png"

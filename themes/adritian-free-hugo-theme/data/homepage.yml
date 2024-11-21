@@ -99,7 +99,7 @@ experience:
     URL: "https://www.linkedin.com/in/liamckenna/"
   button2:
     icon: "icon-profile-fill"
-    btnText: "Download my Resume"
+    btnText: "Download my Resume "
     URL: "pdfs/Resume.pdf"
   # button3:
   #   icon: "icon-arrow-right"
