@@ -100,7 +100,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download my Resume"
-    URL: "#"
+    URL: "pdfs/Resume.pdf"
   # button3:
   #   icon: "icon-arrow-right"
   #   btnText: "View All"

@@ -122,7 +122,7 @@
         </p>
         {{ if .Params.download }}
         <a href="{{ .Params.link }}" download class="btn btn-primary"
-          >Yo<i class="{{ .Params.button.icon }}"></i
+          >{{ .Params.button.btnText }}<i class="{{ .Params.button.icon }}"></i
         ></a>
         {{ else }}
         <a href="{{ .Params.button.URL | absURL }}" class="btn btn-primary"
