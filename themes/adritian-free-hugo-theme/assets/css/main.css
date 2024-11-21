@@ -9306,11 +9306,13 @@ p + p {
     font-weight: 800;
     line-height: normal;
     color: #000;
-    margin-bottom: 25px;
+    margin-bottom: 2.3%;
 }
 @media (min-width: 992px) {
     .display-1 {
         font-size: 60px;
+        padding-bottom: 4%;
+
     }
 }
 p a,
@@ -10451,7 +10453,7 @@ textarea:focus {
     align-items: center;
     position: relative;
     margin-bottom: -20px;
-    padding-top: 120px;
+    padding-top: 13%;
 }
 .rad-showcase__bg {
     -webkit-box-pack: start;
@@ -10527,9 +10529,9 @@ textarea:focus {
 }
 @media (min-width: 992px) {
     .rad-showcase .platform-links {
-        margin-top: 50px;
+        margin-top: 6%;
         margin-right: 0px;
-        margin-bottom: 50px;
+        margin-bottom: 6%;
     }
 }
 .rad-showcase .platform-links [class^="icon-"] {
