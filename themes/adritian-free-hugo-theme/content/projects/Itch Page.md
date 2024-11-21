@@ -19,6 +19,4 @@ params:
 Over the course of my tenure at UF, I've created several smaller-scale games for various projects.
 These include game jams, class projects, hackathons, and personal ventures. The process of working 
 with others on these titles has demonstrated and further developed my programming, designing, artistic,
-and leadership skills. For one particular project, Vermin Venture, I performed all the design, programming, 
-sound, and implementation for the semester class project, and saw personal recognition for the product.
-All of these creations can be seen and downloaded on my Itch page.
+and leadership skills. All of these creations can be seen and downloaded on my Itch page.
