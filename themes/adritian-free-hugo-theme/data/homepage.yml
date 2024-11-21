@@ -8,10 +8,10 @@ showcase:
   title: "Hey! I'm Liam."
   subtitle: "Computer Science Graduate Student @ UF"
   description: >
-    Expected to graduate in the Spring of 2026, I am currently enrolled as a full-time student at the University of Florida's Herbert Wertheim College of Engineering. 
-    While I am earning my master's degree in computer science, I am primarily focusing my studies within the discipline of <b>Computer Graphics</b>.<br>
+    Expected to graduate in the spring of 2026, I am currently enrolled as a full-time student at the University of Florida's Herbert Wertheim College of Engineering. 
+    While I am earning my master's degree in computer science, I am primarily focusing my studies within the discipline of computer graphics.<br>
     I began my enrollment as a graduate student immediately following the completion of my bachelor's degree. 
-    In the Summer of 2024, I graduated with a bachelor's in science at the University of Florida, majoring in Computer Science and minoring in Digital Arts and Sciences.
+    In the summer of 2024, I graduated with a Bachelor of Science at the University of Florida, majoring in computer science and minoring in digital arts and sciences.
   image:
     x: "images/showcase/showcase.png"
     _2x: "images/showcase/showcase.png"
