@@ -1017,13 +1017,11 @@ pre code {
     -webkit-box-flex: 0;
     flex: 0 0 100%;
     max-width: 100%;
-    height:auto;
 }
 .col-13 {
     -webkit-box-flex: 0;
     flex: 0 0 100%;
     max-width: 100%;
-    margin-bottom: 50px;
     text-align: center;
 }
 .order-first {
@@ -9769,20 +9767,14 @@ input[type="email"]::placeholder {
     margin-right: -40px;
     margin-top: 20px;
 }
-
 .about__profile-picture img {
     min-width: 200px;
     min-height: 200px;
-    max-width: 100%;
-    height: auto; /* Maintain aspect ratio */
-    object-fit: cover; /* Ensures no stretching occurs */
 }
-
 html,
 html body {
     min-height: 100%;
 }
-
 @media (min-width: 768px) {
     .about__profile-picture {
         -webkit-box-flex: 0;
@@ -9790,6 +9782,7 @@ html body {
         width: 50%;
         margin-left: 0;
         margin-right: 0;
+
     }
 }
 .experience__title {
