@@ -37,11 +37,15 @@
               <a class="nav-link active" href="{{ .Site.BaseURL | absURL }}">HOME</a>
             </li>
             {{ range .Site.Menus.header }}
-            <li class="nav-item">
-              <a data-scroll class="nav-link" href="{{ .URL | relURL }}"
-                >{{ .Name | upper }}</a
-              >
-            </li>
+              {{ if eq .Name "Blog" }}
+
+              {{ else }}
+                <li class="nav-item">
+                <a data-scroll class="nav-link" href="{{ .URL | relURL }}"
+                  >{{ .Name | upper }}</a
+                  >
+                </li>
+              {{ end}}
             {{ end }}
           </ul>
         </div>
