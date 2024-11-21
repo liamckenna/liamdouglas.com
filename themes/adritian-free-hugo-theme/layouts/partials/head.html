@@ -11,6 +11,7 @@
 <title>{{ .Site.Data.homepage.head.title }}</title>
 <meta name="description" content="{{ .Site.Data.homepage.head.description }}">
 <meta property="og:image" content="https://liamdouglas.com/img/preview_image.png" />
+<meta property="image" content="https://liamdouglas.com/img/preview_image.png" />
 {{ $critical := resources.Get "css/critical.css" | css.Sass | resources.Minify }}
 <style data-generator="critical-css">
 {{ $critical.Content | safeCSS }}
