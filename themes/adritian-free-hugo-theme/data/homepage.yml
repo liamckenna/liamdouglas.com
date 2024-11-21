@@ -14,14 +14,14 @@ showcase:
     In the Summer of 2024, I graduated with a bachelor's in science at the University of Florida, majoring in Computer Science and minoring in Digital Arts and Sciences.
   image:
     x: "images/showcase/showcase.png"
-    _2x: "images/showcase/showcase@2x.png"
+    _2x: "images/showcase/showcase.png"
   imageMobile:
-    x: "images/showcase/showcase-mobile.jpg"
+    x: "images/showcase/showcase.jpg"
 
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "https://www.adrianmoreno.info/"
+    URL: "https://www.liamdouglas.com/#contact/"
 
   socialLinks:
     - icon: "linkedin"
@@ -29,53 +29,48 @@ showcase:
 
     - icon: "github"
       URL: "https://github.com/liamckenna"
-    #
-    #- icon: "twitter"
-    #  URL: "https://twitter.com/zetxek"
-    #
-    #- icon: "dribbble"
-    #  URL: "#"
-    #
-    #- icon: "behance"
-    #  URL: "#"
-    #
+
+    - icon: "yelp"
+      URL: "https://liamleeyum.itch.io/"
+
     - icon: "youtube"
       URL: "https://www.youtube.com/@liamleeyum"
 
     - icon: "instagram"
       URL: "https://www.instagram.com/kikcflip/"
-    #
-    #- icon: "facebook"
-    #  URL: "https://www.facebook.com/zetxek/"
-    #
-    #- icon: "codepen"
-    #  URL: "#"
-    #
-    - icon: "yelp"
-      URL: "https://liamleeyum.itch.io/"
+
+
 # about
 about:
   enable: true
   title: "Who am I?"
   content: >
     <p class="lead">
-      Here you can add some information about you. A small excerpt that describes 
-      your experience, for example.   
-      </p>
+      With a logical mind and creative heart, I'm always looking to explore avenues 
+      that satisfy both halves of my psyche. That wish to create led me towards game 
+      development, but it was my desire for challenge that brought me to the field of 
+      computer graphics.
+      </p>  
       <p class="lead">
-      You explain something about your academic/study background, as well as your
-      preferred areas of work. Think of this area as context-setting for the experience
-      that you will describe below. Why did you change jobs? What drove you to take a 
-      new gig? Even if you are not looking for a job, it's a good way to hint about
-      what kind of projects you are interested in.
+      Finding that passion has fueled a deep motivation to impact the field.
+      Beginning in the Spring of 2025, I will be conducting supervised 
+      research under Professor Jorg Peters at UF's 3D graphics
+      laboratory, <a href='https://www.cise.ufl.edu/research/SurfLab/'>SurfLab</a>.
+      
+      </p>  
+      <p class="lead">
+      Following the completion of my degree, I'm aiming to enter the field of
+      real-time graphics, either as a graphics programmer or game engine developer.
+      In the meantime, I'll be working on my own 3D engine, <a href='https://github.com/liamckenna/APGP'>APGP</a>,
+      alongside the rest of my creative and technical endeavors. 
     </p>
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/adrianmoreno/"
   image:
-    x: "images/who-am-i/user-pic.png"
-    _2x: "images/who-am-i/user-pic@2x.png"
+    x: "images/who-am-i/about me.png"
+    _2x: "images/who-am-i/about me 2x.png"
 
 # education
 education:
@@ -95,24 +90,27 @@ experience:
   enable: true
   title: "Experience"
   description: >
-    This is where you can highlight a bit over your experience. Years of total experience, specialization, etc.
+    Throughout my undergraduate tenure, I undertook one internship in my Junior year before 
+    deciding to pursue a postgraduate degree. For the Summer of 2025, I am seeking an internship
+    pertaining to 3D graphics development.
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/in/adrianmoreno/"
+    URL: "https://www.linkedin.com/in/liamckenna/"
   button2:
     icon: "icon-profile-fill"
-    btnText: "Download My Resume"
+    btnText: "Download my Resume"
     URL: "#"
-  button3:
-    icon: "icon-arrow-right"
-    btnText: "View All"
-    URL: "/experience"
+  # button3:
+  #   icon: "icon-arrow-right"
+  #   btnText: "View All"
+  #   URL: "/experience"
 
 # Client & Work
 client_and_work:
-  title: "Clients & Works"
+  title: "Project Showcase"
   enable: true
+  clientenabled: false
 
 # # testimonial
 # testimonial:
@@ -140,6 +138,7 @@ client_and_work:
 #         x: "images/testimonials/antonio-willis.jpg"
 #         _2x: "images/testimonials/antonio-willis@2x.jpg"
 
+
 contact:
   enable: true
   title: "Contact"
@@ -156,7 +155,7 @@ contact:
     email: '<a href="mailto:work@liamdouglas.com">work@liamdouglas.com</a>'
   address:
     title: "Address"
-    address: "1824 NW 3rd Pl, Unit 10<br />Gainesville, FL 32603"
+    address: "1824 NW 3rd Pl, Unit 10<br />Gainesville, FL 326203"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"

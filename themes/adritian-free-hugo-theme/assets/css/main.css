@@ -9306,7 +9306,7 @@ p + p {
     font-weight: 800;
     line-height: normal;
     color: #000;
-    margin-bottom: 50px;
+    margin-bottom: 25px;
 }
 @media (min-width: 992px) {
     .display-1 {
@@ -9767,7 +9767,7 @@ input[type="email"]::placeholder {
     width: calc(100% + 80px);
     margin-left: -40px;
     margin-right: -40px;
-    margin-top: 40px;
+    margin-top: 20px;
 }
 .about__profile-picture img {
     min-width: 200px;
@@ -9779,7 +9779,6 @@ html body {
 }
 @media (min-width: 768px) {
     .about__profile-picture {
-        margin-top: 50px;
         -webkit-box-flex: 0;
         flex: 0 0 50%;
         max-width: 50%;

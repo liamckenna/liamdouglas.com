@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiences on </title>
+    <link>http://localhost:1313/liamdouglas.com/experience/</link>
+    <description>Recent content in Experiences on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 May 2023 00:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/liamdouglas.com/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Development Intern</title>
+      <link>http://localhost:1313/liamdouglas.com/experience/job-1/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/liamdouglas.com/experience/job-1/</guid>
+      <description>&lt;h3 id=&#34;learning-the-ropes-grasping-responsibility&#34;&gt;Learning the ropes, grasping responsibility.&lt;/h3&gt;&#xA;&lt;p&gt;As a software development intern, I learned the ins and outs of the software development cycle. In addition to&#xA;being the designated intern on a development team, I worked with other interns to create a new program to&#xA;assist in the process of debugging new releases of their proprietary software.&lt;/p&gt;&#xA;&lt;p&gt;Despite ultimately deciding against a career as a software developer (at least, not without a specialization),&#xA;the experience remained truly valuable. Through working in a white collar environment for the first time,&#xA;I sincerely grasped the importance of accountability and proper work ethic.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
