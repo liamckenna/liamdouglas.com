@@ -70,7 +70,7 @@ about:
     URL: "https://www.linkedin.com/in/adrianmoreno/"
   image:
     x: "images/who-am-i/about me.png"
-    _2x: "images/who-am-i/about me 2x.png"
+    _2x: "images/who-am-i/about me.png"
 
 # education
 education:
