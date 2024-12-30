@@ -1,7 +1,7 @@
 +++
 title = 'Sample blog content 2'
 date = 2024-06-23T14:38:33+02:00
-draft = false
+draft = true
 type = 'blog'
 +++
 
