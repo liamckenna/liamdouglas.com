@@ -9385,18 +9385,22 @@ br {
 .btn [class^="icon-"] {
     font-size: 16px;
     margin-right: 9px;
+    align-items:center;
 }
 .btn [class^="icon-"]::before {
     margin-left: 0;
     margin-right: 0;
+    align-items:center;
 }
 .btn [class^="icon-arrow-right"] {
     margin-left: 6px;
     margin-right: 0;
+    align-items:center;
 }
 .btn [class^="icon-arrow-right"]::before {
     margin-left: 0;
     margin-right: 0;
+    align-items:center;
 }
 /* purgecss stop ignore */
 .btn-lg {
