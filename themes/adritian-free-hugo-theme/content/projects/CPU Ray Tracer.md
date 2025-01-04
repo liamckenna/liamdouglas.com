@@ -9,8 +9,8 @@ params:
         btnText: "Repository"
         URL: "https://youtube.com/shorts/uYgkxXODCIo"
     image:  
-        x: "images/works/raytracer2.png"
-        _2x: "images/works/raytracer2.png"
+        x: "images/works/raytracer.png"
+        _2x: "images/works/raytracer.png"
     
 
 ## The content is used for the description of the project
