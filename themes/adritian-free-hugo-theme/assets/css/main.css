@@ -9381,6 +9381,9 @@ br {
     font-weight: 700;
     font-size: 14px;
     padding: 14px 15px;
+    display: inline-flex;
+    align-items: center;
+    vertical-align: middle;
 }
 .btn [class^="icon-"] {
     font-size: 16px;
@@ -9416,6 +9419,9 @@ br {
     -webkit-transition-timing-function: ease;
     transition-timing-function: ease;
     align-items:center;
+    display: inline-flex;
+    align-items: center;
+    vertical-align: middle;
 }
 .btn-primary:hover {
     color: #000;
