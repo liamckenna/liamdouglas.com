@@ -6,7 +6,7 @@ draft: false # set to "true" if you want to hide the content
 params:
     button:
         icon: "icon-profile-fill"
-        btnText: "Demo"
+        btnText: "Demo  "
         URL: "https://youtube.com/shorts/uYgkxXODCIo"
     image:  
         x: "images/works/raytracer.png"
@@ -16,4 +16,4 @@ params:
 ## The content is used for the description of the project
 ---
 
-This ray tracer was built 100% from scratch and only utilizes OpenGL to apply the rendered bitmap to a camera-covering texture. It performs all calculations on the CPU and is written in C++. While the code is not available on GitHub, the rendered demo can be found on my YouTube channel.  
+This ray tracer was built 100% from scratch and only utilizes OpenGL to apply the rendered bitmap to a camera-covering texture. It performs all calculations on the CPU and is written in C++. While the code is not available on GitHub, the rendered demo can be found on my YouTube channel.
