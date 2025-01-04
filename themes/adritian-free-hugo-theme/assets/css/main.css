@@ -9423,6 +9423,11 @@ br {
     align-items: center;
     vertical-align: middle;
 }
+.btn i {
+    display: inline-flex;
+    align-items: center;
+    vertical-align: middle;
+}
 .btn-primary:hover {
     color: #000;
     background-color: transparent;
