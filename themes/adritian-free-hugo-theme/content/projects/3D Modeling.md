@@ -20,4 +20,4 @@ params:
 In my two 3D modeling courses, I have become thoroughly familiar with the process of 3D modeling and
 rendering. I’ve modeled a variety of objects, architectures, and human characters, all of which can be seen in
 this portfolio. My experiences in modeling have been particularly responsible for piquing my interest
-in the 3D rendering pipeline, as well as graphics processing as a whole
+in the 3D rendering pipeline, as well as graphics processing as a whole.
