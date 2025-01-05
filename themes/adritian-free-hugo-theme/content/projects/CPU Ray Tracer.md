@@ -1,6 +1,6 @@
 ---
 date: '2022-05-04T00:00:00+00:00' # date in which the content is created - defaults to "today"
-title: 'CPU Ray Tracer Demo'
+title: 'CPU Ray Tracer'
 draft: false # set to "true" if you want to hide the content 
 
 params:
