@@ -5,8 +5,8 @@ head:
 # showcase
 showcase:
   enable: true
-  title: "Hey! I'm Liam."
-  subtitle: "Computer Science Graduate Student @ UF"
+  title: "Hi! I'm Liam."
+  subtitle: "University of Florida Computer Science Graduate Student"
   description: >
     Expected to graduate in the spring of 2026, I am currently enrolled as a full-time student at the University of Florida's Herbert Wertheim College of Engineering. 
     While I am earning my master's degree in computer science, I am primarily focusing my studies within the discipline of computer graphics.<br><br>
@@ -20,8 +20,8 @@ showcase:
 
   button:
     icon: "icon-profile-fill"
-    btnText: "Resume"
-    URL: "pdfs/Resume.pdf"
+    btnText: "Resume "
+    URL: "resume.pdf"
 
   socialLinks:
     - icon: "linkedin"
@@ -99,8 +99,8 @@ experience:
     URL: "https://www.linkedin.com/in/liamckenna/"
   button2:
     icon: "icon-profile-fill"
-    btnText: "Download my Resume "
-    URL: "pdfs/Resume.pdf"
+    btnText: "Resume "
+    URL: "resume.pdf"
   # button3:
   #   icon: "icon-arrow-right"
   #   btnText: "View All"
