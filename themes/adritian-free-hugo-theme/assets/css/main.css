@@ -9303,7 +9303,7 @@ p + p {
 .display-1 {
     margin-top: 115px;
     font-size: 36px;
-    font-weight: 800;
+    font-weight: 700;
     line-height: normal;
     color: #000;
     margin-bottom: 2.3%;
@@ -9319,6 +9319,7 @@ p a,
 span a {
     color: #000;
     font-weight: 600;
+    font-size: 24px;
     text-decoration: none;
     border-bottom: 1px solid rgba(0, 0, 0, 0.5);
     transition: all 0.5s;
@@ -9777,7 +9778,7 @@ input[type="email"]::placeholder {
 .about__profile-picture {
     -webkit-box-flex: 0;
     flex: 0 0 calc(100%);
-    margin-left: -40px;
+    margin-left: 0;
     margin-right: -40px;
     margin-top: 20px;
 }
@@ -10286,7 +10287,7 @@ textarea:focus {
 }
 @media (min-width: 1200px) {
     .section div[class*="col-"] img.image-left-overflow {
-        margin-left: -120px;
+        margin-left: 0px;
     }
     .header .navbar .nav-item .nav-link {
         padding-left: 20px;
@@ -10529,7 +10530,9 @@ textarea:focus {
 .rad-showcase .container h1 span {
     display: block;
     margin-top: 5px;
-    font-weight: 300;
+    font-weight: normal;
+    font-size: 24px;
+    font-style: italic;
 }
 .rad-showcase .container p.lead {
     width: 100%;
@@ -10591,12 +10594,12 @@ textarea:focus {
 
 
 .profile-image img{
-    max-inline-size: 100%;
+    max-inline-size: 90%;
     block-size: auto;
 }
 
 .profile-image img{
-    margin-top: 100px;
+    margin-top: 80px;
 }
 
 .rad-showcase__bg img{
