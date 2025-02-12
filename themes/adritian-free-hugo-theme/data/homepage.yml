@@ -19,9 +19,9 @@ showcase:
     x: "images/showcase/showcase.jpg"
 
   button:
-    icon: "icon-mail-fill"
-    btnText: "Contact"
-    URL: "https://www.liamdouglas.com/#contact"
+    icon: "icon-profile-fill"
+    btnText: "Resume"
+    URL: "pdfs/Resume.pdf"
 
   socialLinks:
     - icon: "linkedin"
@@ -53,14 +53,14 @@ about:
       </p>  
       <p class="lead">
       Finding that passion has fueled a deep motivation to impact the field.
-      Beginning in the Spring of 2025, I will be conducting supervised 
+      In January of 2025, I began conducting supervised 
       research under Professor Jorg Peters at UF's 3D graphics
       laboratory, <a href='https://www.cise.ufl.edu/research/SurfLab/'>SurfLab</a>.
       
       </p>  
       <p class="lead">
       Following the completion of my degree, I'm aiming to enter the field of
-      real-time graphics, either as a graphics programmer or game engine developer.
+      real-time graphics, either as a graphics programmer or 3d application developer.
       In the meantime, I'll be working on my own 3D engine, <a href='https://github.com/liamckenna/APGP'>APGP</a>,
       alongside the rest of my creative and technical endeavors. 
     </p>
