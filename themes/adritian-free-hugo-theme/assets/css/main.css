@@ -11010,7 +11010,7 @@ aside.content-browser{
         display: none;
     }
     .col-1s2 {
-        margin-top:    15% !important;
+        margin-top: 15% !important;
     }
     div.col-sm-12:nth-child(1) {
         margin-top: 5%;
@@ -11022,7 +11022,7 @@ aside.content-browser{
         font-size: 200%;
     }
     [class^="icon-"]::before, [class*=" icon-"]::before {
-        font-size: 200%;
+        font-size: 175%;
     }
     a.btn:nth-child(3) {
         width: 100%;
@@ -11042,7 +11042,6 @@ aside.content-browser{
     }
     .rad-showcase .platform-links {
         margin-top:10%;
-        margin-right:-15px;
     }
     .ml-auto,
     .mx-auto {
@@ -11078,7 +11077,6 @@ aside.content-browser{
     }
     .col-13 > a:nth-child(1) {
         width: 80% !important;
-        margin-left: 1%;
     }
       .icon-linkedin-line {
         font-size: 80% !important;
