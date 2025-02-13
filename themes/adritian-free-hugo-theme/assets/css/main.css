@@ -11081,3 +11081,15 @@ aside.content-browser{
         font-size: 80%;
     }  
 }
+
+@media (max-width: 768px) {
+    .platform-links {
+      display: flex !important;
+      justify-content: center !important;
+      align-items: center !important;
+      flex-direction: column !important;
+      width: 100% !important;
+      margin: 0 auto !important;
+    }
+  }
+  
