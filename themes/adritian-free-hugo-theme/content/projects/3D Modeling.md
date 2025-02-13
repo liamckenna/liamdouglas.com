@@ -3,13 +3,13 @@ date: '2023-06-01T00:00:00+00:00' # date in which the content is created - defau
 title: '3D Modeling'
 draft: false # set to "true" if you want to hide the content 
 download: true
-link: "/pdfs/3D Modeling Portfolio.pdf" # optional URL to link the logo to
+link: "modeling_portfolio.pdf" # optional URL to link the logo to
 
 params:
     button:
         icon: "icon-profile-fill"
         btnText: "Full Portfolio  "
-        URL: "/assets/portfolio/3D Modeling Portfolio.pdf"
+        URL: "modeling_portfolio.pdf"
     image:  
         x: "images/works/renders.png"
         _2x: "images/works/renders.png"
