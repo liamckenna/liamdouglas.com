@@ -10996,7 +10996,16 @@ aside.content-browser{
     }
 }
 
+.icon-linkedin-line {
+    margin-right: 0px;
+  }
+  
+
 @media (max-width: 768px) {
+    .row {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
     .about__profile-picture {
         display: none;
     }
@@ -11056,22 +11065,22 @@ aside.content-browser{
         width: 125%;
     }
     .icon-github-line {
-        font-size: 80%;
+        font-size: 80% !important;
     }
     .icon-yelp-line {
-        font-size: 80%;
+        font-size: 80% !important;
     }
     .icon-youtube-line {
-        font-size: 80%;
+        font-size: 80% !important;
     }
     .icon-instagram-line {
-        font-size: 80%;
+        font-size: 80% !important;
     }
     .col-13 > a:nth-child(1) {
         width: 80% !important;
         margin-left: 1%;
     }
       .icon-linkedin-line {
-        font-size: 80%;
+        font-size: 80% !important;
     }  
 }
