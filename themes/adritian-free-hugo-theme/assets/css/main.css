@@ -7877,7 +7877,7 @@ button.bg-dark:hover {
     }
     .pt-md-4,
     .py-md-4 {
-        padding-top: 1.5rem !important;
+        padding-top: 0 !important;
     }
     .pr-md-4,
     .px-md-4 {
@@ -9941,7 +9941,7 @@ textarea:focus {
     outline: 0;
 }
 section.section:nth-child(4) {
-    margin-top: -80px;
+    margin-top: 0px;
   }  
 .section {
     position: relative;
