@@ -9781,6 +9781,10 @@ input[type="email"]::placeholder {
     z-index: 2;
     position: relative;
 }
+#about {
+    padding-top: 2.1%;
+    padding-bottom: 2.1%;
+  }  
 .about__profile-picture {
     -webkit-box-flex: 0;
     flex: 0 0 calc(100%);
@@ -10989,5 +10993,11 @@ aside.content-browser{
     }
     .posts-list article.summary{
         color: #c3c3c3;
+    }
+}
+
+@media (max-width: 768px) {
+    .about__profile-picture {
+        display: none;
     }
 }
