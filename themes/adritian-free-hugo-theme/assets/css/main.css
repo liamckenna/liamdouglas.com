@@ -932,7 +932,6 @@ pre code {
 .col-xl-9,
 .col-xl-auto {
     position: relative;
-    width: 100%;
     padding-right: 15px;
     padding-left: 15px;
 }
@@ -1669,6 +1668,7 @@ pre code {
         -webkit-box-flex: 0;
         flex: 0 0 50%;
         max-width: 50%;
+        justify-content: center;
     }
     .col-xl-7 {
         -webkit-box-flex: 0;
@@ -5971,6 +5971,10 @@ a.close.disabled {
         transform: rotate(360deg);
     }
 }
+div.col-sm-12:nth-child(2) {
+    max-height: inherit;
+}
+
 .spinner-border {
     width: 2rem;
     height: 2rem;
@@ -6818,10 +6822,6 @@ button.bg-dark:hover {
 .pr-0,
 .px-0 {
     padding-right: 0 !important;
-}
-.pb-0,
-.py-0 {
-    padding-bottom: 0 !important;
 }
 .pl-0,
 .px-0 {
@@ -9291,17 +9291,16 @@ h4 {
     }
 }
 p {
-    margin-bottom: 30px;
     font-size: 16px;
     font-weight: 300;
     line-height: 28px;
     color: #333;
+    margin-bottom: 8%;
 }
 p + p {
     margin-top: -12px;
 }
 .display-1 {
-    margin-top: 115px;
     font-size: 36px;
     font-weight: 700;
     line-height: normal;
@@ -9312,14 +9311,13 @@ p + p {
     .display-1 {
         font-size: 60px;
         padding-bottom: 4%;
-
+        padding-top: 4%;
     }
 }
 p a,
 span a {
     color: #000;
     font-weight: 600;
-    font-size: 24px;
     text-decoration: none;
     border-bottom: 1px solid rgba(0, 0, 0, 0.5);
     transition: all 0.5s;
@@ -9393,7 +9391,15 @@ br {
 .btn [class^="icon-"]::before {
     margin-left: 0;
     margin-right: 0;
+    vertical-align: middle;
 }
+.btn [class*=" icon-"]::before {
+    vertical-align: middle;
+}
+[class^="icon-"]::before, [class*=" icon-"]::before {
+    vertical-align: middle;
+}
+
 .btn [class^="icon-arrow-right"] {
     margin-left: 6px;
     margin-right: 0;
@@ -9780,7 +9786,6 @@ input[type="email"]::placeholder {
     flex: 0 0 calc(100%);
     margin-left: 0;
     margin-right: -40px;
-    margin-top: 20px;
 }
 .about__profile-picture img {
     min-width: 200px;
@@ -9935,6 +9940,9 @@ input[type="password"]:focus,
 textarea:focus {
     outline: 0;
 }
+section.section:nth-child(4) {
+    margin-top: -80px;
+  }  
 .section {
     position: relative;
     padding-top: 60px;
@@ -9971,8 +9979,8 @@ textarea:focus {
 }
 @media (min-width: 992px) {
     .section {
-        padding-top: 80px;
-        padding-bottom: 80px;
+        padding-top: 40px;
+        padding-bottom: 40px;
     }
     .section .row.row--padded {
         margin-top: 80px;
@@ -10288,9 +10296,11 @@ textarea:focus {
 }
 @media (min-width: 1200px) {
     .section div[class*="col-"] img.image-left-overflow {
-        max-inline-size: 80%;
-        padding-bottom: 50px;
         margin-left: 0px;
+        padding-bottom: 0px;
+        padding-top: 0px;
+        margin-bottom: 0px;
+        margin-top: 0px;
     }
     .header .navbar .nav-item .nav-link {
         padding-left: 20px;
@@ -10543,13 +10553,10 @@ textarea:focus {
 .rad-showcase .platform-links {
     margin-top: 40px;
     margin-right: -5px;
-    margin-bottom: 40px;
 }
 @media (min-width: 992px) {
     .rad-showcase .platform-links {
-        margin-top: 6%;
         margin-right: 0px;
-        margin-bottom: 6%;
     }
 }
 .rad-showcase .platform-links [class^="icon-"] {
@@ -10586,25 +10593,25 @@ textarea:focus {
     .rad-showcase {
         min-height: 870px;
         padding-top: 0;
-        margin-bottom: 0;
+        margin-bottom: -80px;
     }
     .rad-showcase + section {
-        margin-top: -125px;
+        margin-top: 0px;
     }
 }
 
 /* adritian custom css */
 
+p.lead:nth-child(4) {
+    margin-bottom: -1%;
+  }
+  
 
 .profile-image img{
     max-inline-size: 90%;
     block-size: auto;
+    object-fit: contain;
 }
-
-.profile-image img{
-    margin-top: 80px;
-}
-
 .rad-showcase__bg img{
     margin-top: 0;
     margin-left: 100px;
@@ -10836,6 +10843,10 @@ aside.content-browser{
         margin-top: 10px;
     }
 }
+
+.rad-showcase > div:nth-child(1) {
+    padding-top: 40px;
+  }
 
 @media only screen and (max-width : 990px) {
     .rad-showcase__bg img{
