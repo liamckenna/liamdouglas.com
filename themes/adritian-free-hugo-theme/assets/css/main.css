@@ -10999,8 +10999,13 @@ aside.content-browser{
 
 .icon-linkedin-line {
     margin-right: 0px;
-  }
+}
+
+.btn-frameless {
+    width: 100%;
+}
   
+
 
 @media (max-width: 768px) {
     .row {
