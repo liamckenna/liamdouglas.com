@@ -11000,4 +11000,26 @@ aside.content-browser{
     .about__profile-picture {
         display: none;
     }
+    .col-1s2 {
+        margin-top:    15% !important;
+    }
+    div.col-sm-12:nth-child(1) {
+        margin-top: 5%;
+    }
+    .btn-primary {
+        font-size: 125% !important;
+    }
+    .platform-links {
+        width:100%;
+    }
+    .col-13 {
+        font-size: 200%;
+    }
+    [class^="icon-"]::before, [class*=" icon-"]::before {
+        font-size: 200%;
+    }
+    a.btn:nth-child(3) {
+        width: 100%;
+      }
+      
 }
