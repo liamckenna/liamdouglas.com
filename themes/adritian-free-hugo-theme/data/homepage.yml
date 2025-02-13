@@ -79,11 +79,11 @@ education:
   items:
     - university: "University of Florida"
       year: "Expected Spring 2026"
-      degree: "Master of Science (MS), Computer Science"
+      degree: "Master of Science (M.S.), Computer Science"
 
     - university: "University of Florida"
       year: "2022-2024"
-      degree: "Bachelor of Science (BS), Computer Science"
+      degree: "Bachelor of Science (B.S.), Computer Science"
 
 # experience
 experience:
@@ -95,16 +95,12 @@ experience:
     pertaining to 3D graphics development.
   button:
     icon: "icon-linkedin-fill"
-    btnText: "Linkedin"
+    btnText: "LinkedIn"
     URL: "https://www.linkedin.com/in/liamckenna/"
   button2:
     icon: "icon-profile-fill"
     btnText: "Resume"
     URL: "resume.pdf"
-  # button3:
-  #   icon: "icon-arrow-right"
-  #   btnText: "View All"
-  #   URL: "/experience"
 
 # Client & Work
 client_and_work:
