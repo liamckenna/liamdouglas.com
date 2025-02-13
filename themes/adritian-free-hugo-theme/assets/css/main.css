@@ -11009,9 +11009,6 @@ aside.content-browser{
     .btn-primary {
         font-size: 125% !important;
     }
-    .platform-links {
-        width:100%;
-    }
     .col-13 {
         font-size: 200%;
     }
@@ -11033,9 +11030,6 @@ aside.content-browser{
     }
     .btn-primary {
         width: 100%;
-    }
-    .platform-links {
-        width: afoie;
     }
     .rad-showcase .platform-links {
         margin-top:10%;
@@ -11081,15 +11075,3 @@ aside.content-browser{
         font-size: 80%;
     }  
 }
-
-@media (max-width: 768px) {
-    .platform-links {
-      display: flex !important;
-      justify-content: center !important;
-      align-items: center !important;
-      flex-direction: column !important;
-      width: 100% !important;
-      margin: 0 auto !important;
-    }
-  }
-  
