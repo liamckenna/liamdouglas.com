@@ -9979,11 +9979,11 @@ section.section:nth-child(4) {
 }
 @media (min-width: 992px) {
     .section {
-        padding-top: 40px;
-        padding-bottom: 40px;
+        padding-top: 2.1%;
+        padding-bottom: 2.1%;
     }
     .section .row.row--padded {
-        margin-top: 80px;
+        margin-top: 6.9%;
         margin-bottom: 0;
     }
     .section div[class*="col-"].rad-col-text h2 {
@@ -9993,6 +9993,10 @@ section.section:nth-child(4) {
 .section div[class*="col-"].rad-col-text p {
     text-align: center;
 }
+div.row--padded:nth-child(2) {
+    margin-top: 3.5%;
+}
+  
 .section div[class*="col-"] img {
     max-width: 100%;
     max-height: 100%;
