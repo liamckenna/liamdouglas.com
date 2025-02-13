@@ -9984,7 +9984,7 @@ section.section:nth-child(4) {
     }
     .section .row.row--padded {
         margin-top: 80px;
-        margin-bottom: 80px;
+        margin-bottom: 0;
     }
     .section div[class*="col-"].rad-col-text h2 {
         text-align: left;

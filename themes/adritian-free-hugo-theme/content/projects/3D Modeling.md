@@ -2,7 +2,7 @@
 date: '2023-06-01T00:00:00+00:00' # date in which the content is created - defaults to "today"
 title: '3D Modeling'
 draft: false # set to "true" if you want to hide the content 
-download: true
+download: false
 link: "modeling_portfolio.pdf" # optional URL to link the logo to
 
 params:
