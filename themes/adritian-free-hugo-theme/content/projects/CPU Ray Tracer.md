@@ -5,7 +5,7 @@ draft: false # set to "true" if you want to hide the content
 
 params:
     button:
-        icon: "icon-profile-fill"
+        icon: "youtube"
         btnText: "Demo  "
         URL: "https://youtube.com/shorts/uYgkxXODCIo"
     image:  

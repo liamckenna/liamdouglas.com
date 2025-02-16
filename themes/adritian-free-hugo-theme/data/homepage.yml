@@ -43,7 +43,7 @@ showcase:
 # about
 about:
   enable: true
-  title: "About Me :)"
+  title: "About Me"
   content: >
     <p class="lead">
       With a logical mind and creative heart, I'm always looking to explore avenues 
