@@ -11120,5 +11120,10 @@ aside.content-browser{
         padding-left: 15px;
         padding-right: 15px;
     }
+
+    .header .container {
+        padding-left:24px;
+    }
+      
       
 }
