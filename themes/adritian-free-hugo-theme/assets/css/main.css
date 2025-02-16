@@ -11144,7 +11144,11 @@ aside.content-browser{
     }
     
     .navbar-brand > span:nth-child(2) {
-        font-size: 6.5vw !important;
+        font-size: 6vw !important;
+    }
+    
+    .header .navbar-brand span {
+        font-size: 7.5vw !important;
     }
       
       
