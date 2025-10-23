@@ -88,10 +88,6 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: >
-    Throughout my undergraduate tenure, I undertook one internship in my Junior year before 
-    deciding to pursue a postgraduate degree. For the Summer of 2025, I am seeking an internship
-    pertaining to 3D graphics development.
   button:
     icon: "icon-linkedin-fill"
     btnText: "LinkedIn"
