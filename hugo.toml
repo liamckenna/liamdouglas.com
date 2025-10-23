@@ -40,10 +40,10 @@ theme = "adritian-free-hugo-theme"
   URL = "#portfolio"
   weight = 5
 
- # [[menu.header]]
- # name = "Experience"
- # URL = "#experience"
- # weight = 4
+  [[menu.header]]
+  name = "Blog"
+  URL = "https://leespeak.me"
+  weight = 4
 
   [[menu.header]]
   name = "Contact"

@@ -88,14 +88,14 @@ education:
 experience:
   enable: true
   title: "Experience"
-  button:
-    icon: "icon-linkedin-fill"
-    btnText: "LinkedIn"
-    URL: "https://www.linkedin.com/in/liamckenna/"
-  button2:
-    icon: "icon-profile-fill"
-    btnText: "Resume"
-    URL: "resume.pdf"
+#  button:
+#    icon: "icon-linkedin-fill"
+#    btnText: "LinkedIn"
+#    URL: "https://www.linkedin.com/in/liamckenna/"
+#  button2:
+#    icon: "icon-profile-fill"
+#    btnText: "Resume"
+#    URL: "resume.pdf"
 
 # Client & Work
 client_and_work:
