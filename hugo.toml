@@ -42,7 +42,7 @@ theme = "adritian-free-hugo-theme"
 
   [[menu.header]]
   name = "Blog"
-  URL = "/blog"
+  URL = "blog"
   weight = 4
 
   [[menu.header]]
