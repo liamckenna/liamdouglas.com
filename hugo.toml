@@ -42,7 +42,7 @@ theme = "adritian-free-hugo-theme"
 
   [[menu.header]]
   name = "Blog"
-  URL = "https://leespeak.me"
+  URL = "#blog"
   weight = 4
 
   [[menu.header]]
@@ -94,7 +94,7 @@ theme = "adritian-free-hugo-theme"
     text3 = "McKenna"
 
   [params.footer]
-      copyright = "© Adritian. Free Hugo theme by Adrián Moreno Peña."
+      copyright = "© Liam McKenna 2025"
       [params.footer.radity_logo]
         x = "img/general/design-and-code-radity.png"
         _2x = "img/general/design-and-code-radity@2x.png"
@@ -105,5 +105,4 @@ theme = "adritian-free-hugo-theme"
 
 [[redirects]]
   from = "/blog/*"
-  to = "/"
-  status = 301
+  to = "https://leespeak.me"
