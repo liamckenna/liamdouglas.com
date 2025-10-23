@@ -1,13 +1,13 @@
 ---
-date: 2007-12-01T00:00:00+01:00
-draft: true
-title: "Job #3"
-jobTitle: "CEO"
-company: "Internet Affairs Inc. "
-location: "Stavanger, Norway"
-duration: "2024-now"
+date: 2025-08-01T00:00:00+01:00
+draft: false
+title: "Kyoto University Research"
+jobTitle: "Academic Researcher"
+company: "Project AirSim"
+location: "Kyoto, Japan"
+duration: "Fall 2025"
 
 ---
 ### Fixing the world, one byte at a time
 
-Hostile takeover - who is the boss now!
+Kyoto university reserach descritption.

@@ -9,7 +9,7 @@ showcase:
   subtitle: "M.S. in Computer Science, University of Florida"
   description: >
     Expected to graduate in the spring of 2026, I am currently enrolled as a full-time student at the University of Florida's Herbert Wertheim College of Engineering. 
-    While I am earning my master's degree in computer science, I am primarily focusing my studies within the discipline of computer graphics.<br><br>
+    While I am earning my master's degree in computer science, I am primarily focusing my studies on the technical end of video game development.<br><br>
     I began my enrollment as a graduate student immediately following the completion of my bachelor's degree. 
     In the summer of 2024, I graduated with a Bachelor of Science at the University of Florida, majoring in computer science and minoring in digital arts and sciences.
   image:
@@ -47,22 +47,21 @@ about:
   content: >
     <p class="lead">
       With a logical mind and creative heart, I'm always looking to explore avenues 
-      that satisfy both halves of my psyche. That wish to create led me towards game 
-      development, but it was my desire for challenge that brought me to the field of 
-      computer graphics.
+      that satisfy both halves of my psyche. That passion for creation led me towards game 
+      development, but it was my desire for challenge that made me enamored by its technical 
+      aspects.
       </p>  
       <p class="lead">
-      Finding that passion has fueled a deep motivation to impact the field.
-      In January of 2025, I began conducting supervised 
-      research under Professor Jorg Peters at UF's 3D graphics
-      laboratory, <a href='https://www.cise.ufl.edu/research/SurfLab/'>SurfLab</a>.
-      
+      Finding that passion has fueled a deep motivation to impact the field. My entire year
+      has been spent predomimantly conducting research, first for UF's computer graphics lab,
+       <a href='https://www.cise.ufl.edu/research/SurfLab/'>SurfLab</a>, and now studying abroad in Japan
+      helping Kyoto University's computer vision research department improve their Unreal Engine simulations.
       </p>  
       <p class="lead">
       Following the completion of my degree, I'm aiming to enter the field of
-      real-time graphics, either as a graphics programmer or 3d application developer.
-      In the meantime, I'll be working on my own 3D engine, <a href='https://github.com/liamckenna/APGP'>APGP</a>,
-      alongside the rest of my creative and technical endeavors. 
+      game development, either through a technical engineering or design role.
+      In the meantime, I'll be keeping my thoughts filed on my blog, <a href='https://leespeak.me'>LEE_SPEAK</a>,
+      and continuing work on my research and personal endeavors.
     </p>
   button:
     icon: "icon-smile-fill"
@@ -107,32 +106,6 @@ client_and_work:
   title: "Project Showcase"
   enable: true
   clientenabled: false
-
-# # testimonial
-# testimonial:
-#   enable: true
-#   title: "Testimonials"
-#   items:
-#     - name: "Daniel Jordan"
-#       position: "Phonet, CEO"
-#       content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
-#       image:
-#         x: "images/testimonials/daniel-jordan.jpg"
-#         _2x: "images/testimonials/daniel-jordan@2x.jpg"
-
-#     - name: "Jonathan Peters"
-#       position: "Textic, CEO"
-#       content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
-#       image:
-#         x: "images/testimonials/jonathan-peters.jpg"
-#         _2x: "images/testimonials/jonathan-peters@2x.jpg"
-
-#     - name: "Antonio Willis"
-#       position: "Cyberse, CEO"
-#       content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
-#       image:
-#         x: "images/testimonials/antonio-willis.jpg"
-#         _2x: "images/testimonials/antonio-willis@2x.jpg"
 
 
 contact:
