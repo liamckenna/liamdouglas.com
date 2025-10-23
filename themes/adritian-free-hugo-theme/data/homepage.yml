@@ -86,7 +86,7 @@ education:
 
 # experience
 experience:
-  enable: true
+  enable: false
   title: "Experience"
 #  button:
 #    icon: "icon-linkedin-fill"
