@@ -1,12 +1,12 @@
 ---
-date: '2024-08-07T00:00:00+00:00' # date in which the content is created - defaults to "today"
+date: '2024-06-04T00:00:00+00:00' # date in which the content is created - defaults to "today"
 title: 'SteamQuack.com'
 draft: false # set to "true" if you want to hide the content 
 
 params:
     button:
-        icon: "icon-profile-fill"
-        btnText: "Visit Site  "
+        icon: "icon-arrow-right"
+        btnText: "Visit Site"
         URL: "https://www.steamquack.com"
     image:  
         x: "images/works/steamquakc.png"

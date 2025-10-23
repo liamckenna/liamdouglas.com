@@ -6,8 +6,15 @@
     <description>Recent content in Projects on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/liamdouglas.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LEE_SPEAK</title>
+      <link>http://localhost:1313/liamdouglas.com/projects/lee_speak/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/liamdouglas.com/projects/lee_speak/</guid>
+      <description>&lt;p&gt;APGP serves as my custom environment to test and implement various aspects of real-time 3D graphics rendering. As a repository, it serves as a personal exercise in making a publicly-accessible codebase that can easily run in a system-agnostic manner, along with simply being an archive of my efforts.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>All-Purpose Graphics Playground (APGP)</title>
       <link>http://localhost:1313/liamdouglas.com/projects/apgp/</link>
@@ -16,18 +23,25 @@
       <description>&lt;p&gt;APGP serves as my custom environment to test and implement various aspects of real-time 3D graphics rendering. As a repository, it serves as a personal exercise in making a publicly-accessible codebase that can easily run in a system-agnostic manner, along with simply being an archive of my efforts.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>SteamQuack.com</title>
-      <link>http://localhost:1313/liamdouglas.com/projects/steamquack/</link>
+      <title>PowerLine</title>
+      <link>http://localhost:1313/liamdouglas.com/projects/powerline/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/liamdouglas.com/projects/steamquack/</guid>
-      <description>&lt;p&gt;SteamQuack.com serves as an entertaining way for PC gamers to find new games based on their personal tastes. Users submit their Steam profile, and a&#xA;taste profile is generated based on the data available through Steam’s API. The user can then tell the site’s&#xA;host, a literal “quack doctor” named Ducktor Gamez, exactly what they do and don’t care about when looking&#xA;for a game, which he will consider before generating game suggestions back to the user.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/liamdouglas.com/projects/powerline/</guid>
+      <description>&lt;p&gt;APGP serves as my custom environment to test and implement various aspects of real-time 3D graphics rendering. As a repository, it serves as a personal exercise in making a publicly-accessible codebase that can easily run in a system-agnostic manner, along with simply being an archive of my efforts.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Topposition</title>
       <link>http://localhost:1313/liamdouglas.com/projects/topposition/</link>
-      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/liamdouglas.com/projects/topposition/</guid>
       <description>&lt;p&gt;Topposition was originally created as a board game for a class assignment, but eventually turned into an&#xA;exercise in C++ programming as it became the first game I’ve developed without an engine, written in pure&#xA;C++, utilizing a single rudimentary graphics library (SDL2). The game boasts a fully procedural terrain&#xA;generation system, as well as local and online multiplayer. Topposition is still in development but is fully&#xA;playable locally.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SteamQuack.com</title>
+      <link>http://localhost:1313/liamdouglas.com/projects/steamquack/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/liamdouglas.com/projects/steamquack/</guid>
+      <description>&lt;p&gt;SteamQuack.com serves as an entertaining way for PC gamers to find new games based on their personal tastes. Users submit their Steam profile, and a&#xA;taste profile is generated based on the data available through Steam’s API. The user can then tell the site’s&#xA;host, a literal “quack doctor” named Ducktor Gamez, exactly what they do and don’t care about when looking&#xA;for a game, which he will consider before generating game suggestions back to the user.&lt;/p&gt;</description>
     </item>
     <item>
       <title>3D Modeling</title>
@@ -48,7 +62,7 @@
       <link>http://localhost:1313/liamdouglas.com/projects/cpu-ray-tracer/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/liamdouglas.com/projects/cpu-ray-tracer/</guid>
-      <description>&lt;p&gt;This ray tracer was built 100% from scratch and only utilizes OpenGL to apply the rendered bitmap to a camera-covering texture. It performs all calculations on the CPU and is written in C++. While the code is not available on GitHub, the rendered demo can be found on my YouTube channel.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This ray tracer was built 100% from scratch and only utilizes OpenGL to apply the rendered bitmap to a camera-covering texture. It performs all calculations on the CPU and was written in&#xA;C++. While the code is not available on GitHub, the rendered demo can be found on my YouTube channel.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

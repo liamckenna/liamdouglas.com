@@ -6,8 +6,15 @@
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 04 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/liamdouglas.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All-Purpose Graphics Playground (APGP)</title>
+      <link>http://localhost:1313/liamdouglas.com/projects/apgp/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/liamdouglas.com/projects/apgp/</guid>
+      <description>&lt;p&gt;APGP serves as my custom environment to test and implement various aspects of real-time 3D graphics rendering. As a repository, it serves as a personal exercise in making a publicly-accessible codebase that can easily run in a system-agnostic manner, along with simply being an archive of my efforts.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Kyoto University Research</title>
       <link>http://localhost:1313/liamdouglas.com/experience/job-3/</link>
@@ -23,11 +30,11 @@
       <description>&lt;h3 id=&#34;fixing-the-world-one-byte-at-a-time&#34;&gt;Fixing the world, one byte at a time&lt;/h3&gt;&#xA;&lt;p&gt;SurfLab research description.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>All-Purpose Graphics Playground (APGP)</title>
-      <link>http://localhost:1313/liamdouglas.com/projects/apgp/</link>
-      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/liamdouglas.com/projects/apgp/</guid>
-      <description>&lt;p&gt;APGP serves as my custom environment to test and implement various aspects of real-time 3D graphics rendering. As a repository, it serves as a personal exercise in making a publicly-accessible codebase that can easily run in a system-agnostic manner, along with simply being an archive of my efforts.&lt;/p&gt;</description>
+      <title>LEE_SPEAK</title>
+      <link>http://localhost:1313/liamdouglas.com/projects/lee_speak/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/liamdouglas.com/projects/lee_speak/</guid>
+      <description>&lt;p&gt;LEE_SPEAK is a blog created for a handful of reasons, but chiefly as a personal outlet. Anyone willing to share their opinions on the internet must believe to some extent their thoughts are indeed worth sharing, so posts there always aim to be some flavor of original, insightful, entertaining, and/or personal. Feel free to read my thoughts on gaming, music, sweets, and more.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ztos</title>
@@ -72,18 +79,25 @@
       <description></description>
     </item>
     <item>
-      <title>SteamQuack.com</title>
-      <link>http://localhost:1313/liamdouglas.com/projects/steamquack/</link>
+      <title>PowerLine</title>
+      <link>http://localhost:1313/liamdouglas.com/projects/powerline/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/liamdouglas.com/projects/steamquack/</guid>
-      <description>&lt;p&gt;SteamQuack.com serves as an entertaining way for PC gamers to find new games based on their personal tastes. Users submit their Steam profile, and a&#xA;taste profile is generated based on the data available through Steam’s API. The user can then tell the site’s&#xA;host, a literal “quack doctor” named Ducktor Gamez, exactly what they do and don’t care about when looking&#xA;for a game, which he will consider before generating game suggestions back to the user.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/liamdouglas.com/projects/powerline/</guid>
+      <description>&lt;p&gt;PowerLine is a multiplayer Minecraft minigame fully developed over the course of two weeks.&#xA;Through its development time I learned the hefty value of playtesting and player feedback.&#xA;The game was approved by and published to the popular and selective Minecraft minigame hosting&#xA;website, StickyPiston.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Topposition</title>
       <link>http://localhost:1313/liamdouglas.com/projects/topposition/</link>
-      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/liamdouglas.com/projects/topposition/</guid>
       <description>&lt;p&gt;Topposition was originally created as a board game for a class assignment, but eventually turned into an&#xA;exercise in C++ programming as it became the first game I’ve developed without an engine, written in pure&#xA;C++, utilizing a single rudimentary graphics library (SDL2). The game boasts a fully procedural terrain&#xA;generation system, as well as local and online multiplayer. Topposition is still in development but is fully&#xA;playable locally.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SteamQuack.com</title>
+      <link>http://localhost:1313/liamdouglas.com/projects/steamquack/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/liamdouglas.com/projects/steamquack/</guid>
+      <description>&lt;p&gt;SteamQuack.com serves as an entertaining way for PC gamers to find new games based on their personal tastes. Users submit their Steam profile, and a&#xA;taste profile is generated based on the data available through Steam’s API. The user can then tell the site’s&#xA;host, a literal “quack doctor” named Ducktor Gamez, exactly what they do and don’t care about when looking&#xA;for a game, which he will consider before generating game suggestions back to the user.&lt;/p&gt;</description>
     </item>
     <item>
       <title>3D Modeling</title>

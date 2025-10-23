@@ -5,8 +5,8 @@ draft: false # set to "true" if you want to hide the content
 
 params:
     button:
-        icon: "icon-youtube-line"
-        btnText: "Demo  "
+        icon: "icon-arrow-right"
+        btnText: "Demo"
         URL: "https://youtube.com/shorts/uYgkxXODCIo"
     image:  
         x: "images/works/raytracer.png"
