@@ -7,7 +7,7 @@ params:
     button:
         icon: "icon-arrow-right"
         btnText: "Personal Blog"
-        URL: "https://github.com/liamckenna/APGP"
+        URL: "https://leespeak.me/"
     image:  
         x: "images/works/lee_speak.png"
         _2x: "images/works/lee_speak.png"
