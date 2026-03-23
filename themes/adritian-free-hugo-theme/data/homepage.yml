@@ -8,15 +8,20 @@ showcase:
   title: "Hi! I'm Liam."
   subtitle: "M.S. in Computer Science, University of Florida"
   description: >
-    Expected to graduate in the spring of 2026, I am currently enrolled as a full-time student at the University of Florida's Herbert Wertheim College of Engineering. 
-    While I am earning my master's degree in computer science, I am primarily focusing my studies on the technical end of video game development.<br><br>
-    I began my enrollment as a graduate student immediately following the completion of my bachelor's degree. 
-    In the summer of 2024, I graduated with a Bachelor of Science at the University of Florida, majoring in computer science and minoring in digital arts and sciences.
+    Graduating in the Spring of 2026 with a master's degree in computer science, I am primarily focusing my studies on the technical end of video game development. 
+    
+    <br>During this time, I have conducted computer graphics research here at UF's <a href='https://www.cise.ufl.edu/research/SurfLab/'>SurfLab</a> 
+    and contributed work towards the computer vision simulation platform <a href='https://iamaisim.github.io/ProjectAirSim/'>Project Airsim</a> under research supervision at Kyoto University.
+    
+    <br>Following the completion of my degree, I'm aiming to enter the field of
+      game development under a technical engineering role.
+      In the meantime, I'll be keeping my thoughts filed on my blog, <a href='https://leespeak.me'>LEE_SPEAK</a>,
+      and continuing work on my research and personal endeavors.
   image:
-    x: "images/showcase/showcase.png"
-    _2x: "images/showcase/showcase.png"
+    x: "images/who-am-i/about me.png"
+    _2x: "images/who-am-i/about me 2x.png"
   imageMobile:
-    x: "images/showcase/showcase.jpg"
+    x: "images/who-am-i/about me.png"
 
   button:
     icon: "icon-profile-fill"
@@ -43,7 +48,8 @@ showcase:
 # about
 about:
   enable: true
-  title: "About Me"
+  title: "Hi! I'm Liam."
+  subtitle: "M.S. in Computer Science, University of Florida"
   content: >
     <p class="lead">
       With a logical mind and creative heart, I'm always looking to explore avenues 

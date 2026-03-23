@@ -9310,8 +9310,8 @@ p + p {
 @media (min-width: 992px) {
     .display-1 {
         font-size: 60px;
-        padding-bottom: 4%;
-        padding-top: 4%;
+        padding-bottom: 2%;
+        padding-top: 0%;
     }
 }
 p a,
@@ -10616,10 +10616,17 @@ p.lead:nth-child(4) {
   }
   
 
-.profile-image img{
-    max-inline-size: 90%;
-    block-size: auto;
+.profile-image img {
+    /* Set this to 100% to make it fill the container, 
+       or use a specific pixel width like max-width: 400px; */
+    width: 100%;
+    max-width: 100%;
+    height: auto;
     object-fit: contain;
+
+    /* Optional: Center the image if it doesn't take up the full width */
+    display: block;
+    margin: 0 auto;
 }
 .rad-showcase__bg img{
     margin-top: 0;
