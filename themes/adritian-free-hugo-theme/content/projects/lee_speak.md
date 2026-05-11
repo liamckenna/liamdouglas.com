@@ -16,4 +16,4 @@ params:
 ## The content is used for the description of the project
 ---
 
-LEE_SPEAK is a blog created for a handful of reasons, but chiefly as a personal outlet. Anyone willing to share their opinions on the internet must believe to some extent their thoughts are indeed worth sharing, so posts there always aim to be some flavor of original, insightful, entertaining, and/or personal. Feel free to read my thoughts on gaming, music, sweets, and more.
+LEE_SPEAK is a weblog created for a handful of reasons, but chiefly as a personal outlet. Anyone willing to share their opinions on the internet must believe to some extent their thoughts are indeed worth sharing, so posts there always aim to be some flavor of original, insightful, entertaining, and/or personal. Feel free to read my thoughts on gaming, music, sweets, and more.
