@@ -27,7 +27,7 @@ theme = "adritian-free-hugo-theme"
 
   [[menu.header]]
   name = "Resume"
-  URL = "resume.pdf"
+  URL = "LiamMcKennaResume.pdf"
   weight = 3
 
   [[menu.header]]
@@ -52,7 +52,7 @@ theme = "adritian-free-hugo-theme"
 
   [[menu.footer]]
   name = "Resume"
-  URL = "resume.pdf"
+  URL = "LiamMcKennaResume.pdf"
   weight = 3
 
   [[menu.footer]]

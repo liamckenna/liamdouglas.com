@@ -26,7 +26,7 @@ showcase:
   button:
     icon: "icon-profile-fill"
     btnText: "Resume "
-    URL: "resume.pdf"
+    URL: "LiamMcKennaResume.pdf"
 
   socialLinks:
     - icon: "linkedin"
@@ -101,7 +101,7 @@ experience:
 #  button2:
 #    icon: "icon-profile-fill"
 #    btnText: "Resume"
-#    URL: "resume.pdf"
+#    URL: "LiamMcKennaResume.pdf"
 
 # Client & Work
 client_and_work:
